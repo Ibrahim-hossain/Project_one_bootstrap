@@ -1,0 +1,251 @@
+.navbar-inverse .navbar-toggle .icon-bar{
+    background-color: black!important;
+	color:black!important;
+}
+.arrow span{
+	font-size:40px;
+	
+}
+.navbar-brand img{
+	position:relative;
+	top:-6px;
+}
+.nav-custom{
+	border:none;
+	background-color:#F6F9F9;
+	
+	box-shadow:0px 1px 2px rgba(0,0,0,0.1);
+}
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover{
+	color:black;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+	background-color:none;
+}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover{
+	background:none;
+	color:black;
+}
+.navbar-center ul li{
+	text-align:center;
+	
+}
+/*popup login system */
+.custom_login{
+	width:100%;
+	
+	
+}
+.login_forget{
+	position:relative;
+	top:-35px;
+	right:10%;
+}
+.close{
+	padding-right: 10px;
+    padding-top: 3px;
+}
+.modal img{
+	margin-bottom:10px;
+}
+.modal-content{
+	background-image:url("asset/images/DSC03437.jpg");
+}
+.modal input{
+	background:none;
+}
+/*End the popup menu section */
+/*Completed the navigation bar */
+
+.single-content{
+	background-color:#F6F9F9;
+}
+.font-awesome-design{
+	height:60px;
+	width:60px;
+	background:#5FC3FF;
+	text-align:center;
+	line-height:75px;
+	border-radius:8px;
+}
+.font-awesome-design i{
+	font-size:35px;
+	color:white;
+	
+}
+/*Starting portfolio_section css coding below */
+.portfolio_section{
+	background:#F6F9F9!important;
+	overflow:hidden;
+}
+
+.portfolio_section img{
+	height:200px;
+	width:300px;
+}
+/*Slider section */
+.item img{
+	max-height:550px;
+	
+}
+.slider{
+	width:300px;
+	height:200px;
+	overflow:hidden;
+}
+.contentjj{
+	position:relative;
+	height:auto;
+	width:100%;
+	background:black;
+	opacity:0.4;
+	transition:2s;
+	border-radius:6px;
+}
+.text_area{
+	text-align:center;
+	line-height:210px;
+	font-size:40px;
+	color:white;
+	
+}
+.text_area a{
+	text-decoration:none;
+	
+}
+.slider:hover .contentjj{
+	transform:translatey(-200px);
+}
+/*slider up writing section */
+.slider_opacity{
+	position:absolute;
+	top:0px;
+	opacity:0.4;
+	height:100%;
+	width:100%;
+	background:#5E90C9;
+}
+
+.slider_write{
+	color:white;
+	text-align:center;
+}
+.slider_write h1{
+	font-size:5vw;
+	font-weight:800;
+}
+.slider_write hr{	
+	border:none;
+	height:2px;
+	background-color:blue;
+}
+.slider_write i{
+	height:50px;
+	width:50px;
+	color:white;
+	font-size:30px;
+}
+.slider_write{
+	position:absolute;
+	top:10%;
+	left:35%;
+	right:35%;
+}
+/*End the Slider section */
+
+/*Starting About Section */
+.about img{
+	height:200px;
+	width:200px;
+	
+}
+.about{
+	background-color:#F6F9F9;
+	overflow:hidden;
+}
+.developer{
+	width:200px;
+	height:200px;
+	overflow:hidden;
+}
+.developer_content{
+	position:relative;
+	height:200px;
+	width:200px;
+	border-radius:50%;
+	background:black;
+	opacity:0.5;
+	transition:2s;
+}
+.text_developer{
+	text-align:center;
+	line-height:200px;
+	color:black;
+	font-size:20px;
+}
+.developer:hover .developer_content{
+	transform:translatey(-200px);
+	
+}
+/*Starting form Section */
+.footer_section{
+	background-image:url("asset/images/DSC03437.jpg");
+	height:400px;
+	width:100%;
+}
+.custom_input{
+	background:none;
+	color:white;
+}
+.checkbox{
+	width:20px;
+	height:20px;
+	overflow:hidden;
+	background:none;
+	
+}
+.footer_section span{
+	position:relative;
+	top:-6px;
+}
+.custom_btn{
+	background:none;
+}
+.checkbox, .radio{
+	display:unset;
+}
+/*End the form section */
+.footer_logo a{
+	text-decoration:none;
+	font-size:25px;
+	color:white;
+}
+.footer_logo li{
+	padding:5px 10px;
+	background:#27A8F4;
+	list-style:none;
+	border-radius:5px;
+}
+.footer_logo a:hover{
+	color:#286090;
+	
+}
+.footer_logo em{
+	color:blue;
+}
+.btn-primary{
+	background:none;
+	color:black;
+}
+.btn-primary:hover{
+	background:#F6F9F9;
+	color:black;
+}
+
+
+
+
+
+
+
+
